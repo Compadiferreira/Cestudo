@@ -9,7 +9,7 @@
     ;} 
     else {printf("O valor de b e maior que A");}
     
-    
+    printf("Isso tbm e o primeiro pull tmb")
     
 
 
